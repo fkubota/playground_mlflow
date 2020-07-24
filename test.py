@@ -5,9 +5,9 @@ if __name__ == "__main__":
     log_param("param1", 10)
 
     # Log a metric; metrics can be updated throughout the run
-    log_metric("bar", 20)
-    log_metric("bar", 50)
-    log_metric("bar", 300)
+    log_metric("foo", 50)
+    log_metric("foo", 130)
+    log_metric("foo", 200)
 
     # Log an artifact (output file)
     with open("output.txt", "w") as f:
