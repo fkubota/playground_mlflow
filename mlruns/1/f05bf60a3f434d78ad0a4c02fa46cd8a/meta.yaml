@@ -1,0 +1,15 @@
+artifact_uri: file:///home/fkubota/Git/playground_mlflow/mlruns/1/f05bf60a3f434d78ad0a4c02fa46cd8a/artifacts
+end_time: 1595554366121
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+name: ''
+run_id: f05bf60a3f434d78ad0a4c02fa46cd8a
+run_uuid: f05bf60a3f434d78ad0a4c02fa46cd8a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1595554366102
+status: 3
+tags: []
+user_id: fkubota
